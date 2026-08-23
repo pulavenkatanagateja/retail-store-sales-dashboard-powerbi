@@ -39,6 +39,16 @@ An interactive Power BI dashboard developed to analyze 100,000 retail transactio
 - Excel
 - Data Analysis
 
+  ## 💡 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- SQL
+- Power BI Dashboard Development
+- Data Visualization
+- KPI Analysis
+- Business Insight Generation
+
 ## 📂 Dataset
 The dataset contains 100,000 retail transactions and 25 columns.
 
@@ -53,3 +63,11 @@ License: CC0: Public Domain
 
 - `Retail_Store_Sales_Dashboard.pbix` – Power BI dashboard
 - `dashboard.png` – Dashboard preview
+
+  ## 📌 Key Insights
+
+- Analyzed 100,000 retail transactions.
+- Compared sales performance across regions and product categories.
+- Identified top-performing products based on profit.
+- Analyzed monthly sales trends.
+- Built interactive filters for Region, Category, and Year.
