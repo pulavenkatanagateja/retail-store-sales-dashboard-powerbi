@@ -40,8 +40,10 @@ An interactive Power BI dashboard developed to analyze 100,000 retail transactio
 - Data Analysis
 
 ## 📂 Dataset
-
 The dataset contains 100,000 retail transactions and 25 columns.
+
+Source: Kaggle  
+License: CC0: Public Domain
 
 ## 🖼️ Dashboard Preview
 
